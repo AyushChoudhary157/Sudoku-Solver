@@ -8,8 +8,8 @@ One you have entered the sudoku you need solved, just below you can see 3 button
 2. Solve
 3. Exit
    
-#Clear button clears the entire sudoku. You can now give a fresh input puzzle.
+<h2> Clear <h2>button clears the entire sudoku. You can now give a fresh input puzzle.
 
-#Solve button solves the sudoku and completes the sudoku given by the user.
+Solve button solves the sudoku and completes the sudoku given by the user.
 
-#Exit button closes the sudoku window.
+Exit button closes the sudoku window.
